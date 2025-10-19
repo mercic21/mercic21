@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm NISINGIZWE Merci Christian  
+# Hi Fam! 👋 I'm NISINGIZWE Merci Christian  
 Software Engineer | Full-Stack Developer | Tech Enthusiast | AI Explorer  | Backend focused
 
 ---
