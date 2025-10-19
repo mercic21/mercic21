@@ -26,7 +26,7 @@ Laravel | Spring Boot | Express.js
 **Databases:**  
 MySQL | PostgreSQL | Firebase  
 
-** Mobile: **
+**Mobile:**
 Flutter
 
 **DevOps & Tools:**  
