@@ -47,13 +47,12 @@ Software Engineer | Full-Stack Developer | Tech Enthusiast | AI Explorer  | Back
 🏗️ Full-Stack Web Development  
 ⚙️ RESTful API Design & Testing  
 📱 Cross-Platform Development  
-🧠 AI Integration in Web Apps  
+🧠 AI Integration in Web  and Mobile Apps  
 
 ---
 
 ## 🎓 Education  
 **Bachelor of Science in Software Engineering**  
-_University of Lay Adventists of Kigali (UNILAK)_  
 
 ---
 
